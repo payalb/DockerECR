@@ -67,3 +67,9 @@ If you are using Java based configuration, please add the below lines of code to
 public CacheManager jCacheManager() {
    return new JCacheCacheManager();
 }
+
+	 <server>
+		<id>docker.io</id>
+       <username>payalbnsl</username>
+       <password>krishna0</password>
+	 </server>
